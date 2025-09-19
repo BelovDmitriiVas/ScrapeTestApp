@@ -1,7 +1,7 @@
 import sys
 from scrapy.crawler import CrawlerProcess
 
-from scrape_to_chunks import StreamSpider  # импортируем класс паука
+from scrape_to_chunks import StreamSpider  
 
 URL = ""
 
